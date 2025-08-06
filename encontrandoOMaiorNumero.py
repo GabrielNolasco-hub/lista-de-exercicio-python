@@ -4,4 +4,4 @@ def maiorNumero(lista):
   return max(lista)
 
 
-maiorNumero(numeros);
+print(maiorNumero(numeros))
